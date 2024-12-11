@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sage">#6C946F</color>
+    <color name="yellow">#FFD35A</color>
+    <color name="orange">#FFA823</color>
+    <color name="purple">#DC0083</color>
+    <!-- Dark mode colors -->
+    <color name="dark_sage">#2E7D32</color>
+    <color name="soft_yellow">#FDD835</color>
+    <color name="dark_orange">#FB8C00</color>
+    <color name="near_white">#E0E0E0</color>
+
+    <!-- Background colors for Dark mode -->
+    <color name="black">#000000</color>
+    <color name="dark_gray">#424242</color>
+    <color name="light_gray">#BDBDBD</color>
+</resources>

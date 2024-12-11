@@ -1,0 +1,18 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ambatoplant" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/sage</item>
+        <item name="colorOnPrimary">@color/yellow</item>
+        <item name="colorPrimaryContainer">@color/orange</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+        <item name="android:colorBackground">@color/white</item> <!-- Tambahkan ini untuk light mode -->
+    </style>
+
+    <style name="Theme.Ambatoplant" parent="Base.Theme.Ambatoplant">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="FullAppBar" parent="">
+        <item name="android:background">?attr/colorPrimary</item>
+    </style>
+</resources>
